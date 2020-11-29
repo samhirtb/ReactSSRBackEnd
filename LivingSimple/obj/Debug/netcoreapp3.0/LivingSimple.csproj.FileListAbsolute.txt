@@ -1,0 +1,185 @@
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\appsettings.json
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\LivingSimple.exe
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\LivingSimple.deps.json
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\LivingSimple.runtimeconfig.json
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\LivingSimple.runtimeconfig.dev.json
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\LivingSimple.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\LivingSimple.pdb
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\obj\Debug\netcoreapp3.0\staticwebassets\LivingSimple.StaticWebAssets.Manifest.cache
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\obj\Debug\netcoreapp3.0\staticwebassets\LivingSimple.StaticWebAssets.xml
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.AssemblyInfoInputs.cache
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.AssemblyInfo.cs
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.RazorTargetAssemblyInfo.cache
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.pdb
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.csprojAssemblyReference.cache
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.csproj.CopyComplete
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.MvcApplicationPartsAssemblyInfo.cache
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\LivingSimple.exe
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\LivingSimple.deps.json
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\LivingSimple.runtimeconfig.json
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\LivingSimple.runtimeconfig.dev.json
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\LivingSimple.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\LivingSimple.pdb
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.AssemblyInfoInputs.cache
+D:\Aneela Development\MicroServiceOne\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.AssemblyInfo.cs
+D:\Aneela Development\MicroServiceOne\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.csproj.CoreCompileInputs.cache
+D:\Aneela Development\MicroServiceOne\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.MvcApplicationPartsAssemblyInfo.cache
+D:\Aneela Development\MicroServiceOne\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.RazorTargetAssemblyInfo.cache
+D:\Aneela Development\MicroServiceOne\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.csproj.CopyComplete
+D:\Aneela Development\MicroServiceOne\LivingSimple\obj\Debug\netcoreapp3.0\staticwebassets\LivingSimple.StaticWebAssets.Manifest.cache
+D:\Aneela Development\MicroServiceOne\LivingSimple\obj\Debug\netcoreapp3.0\staticwebassets\LivingSimple.StaticWebAssets.xml
+D:\Aneela Development\MicroServiceOne\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.dll
+D:\Aneela Development\MicroServiceOne\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.pdb
+D:\Aneela Development\MicroServiceOne\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.genruntimeconfig.cache
+D:\Aneela Development\MicroServiceOne\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.csprojAssemblyReference.cache
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\appsettings.json
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\LivingSimple.exe
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\LivingSimple.deps.json
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\LivingSimple.runtimeconfig.json
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\LivingSimple.runtimeconfig.dev.json
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\LivingSimple.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\LivingSimple.pdb
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.csprojAssemblyReference.cache
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\obj\Debug\netcoreapp3.0\staticwebassets\LivingSimple.StaticWebAssets.Manifest.cache
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\obj\Debug\netcoreapp3.0\staticwebassets\LivingSimple.StaticWebAssets.xml
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.MvcApplicationPartsAssemblyInfo.cache
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.AssemblyInfoInputs.cache
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.AssemblyInfo.cs
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.RazorTargetAssemblyInfo.cache
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.csproj.CopyComplete
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.dll
+D:\TEST APPS\.NET Tests\ReactSSRBackEnd\LivingSimple\obj\Debug\netcoreapp3.0\LivingSimple.pdb
